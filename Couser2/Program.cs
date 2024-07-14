@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Globalization;
-using Course2.Entities;
-using Course2.Entities.Enums;
-using Course2.Entities.Enums;
-using Course2.Entities;
+using Course.Entities;
+using Course.Entities.Enums;
 
 namespace Course
 {

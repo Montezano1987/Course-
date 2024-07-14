@@ -1,9 +1,7 @@
-﻿using Course2.Entities.Enums;
-using Course2.Entities.Enums;
-using Course2.Entities;
-using System.Collections.Generic;
+﻿using Course.Entities.Enums;
 
-namespace Course2.Entities
+
+namespace Course.Entities
 {
     class Worker
     {

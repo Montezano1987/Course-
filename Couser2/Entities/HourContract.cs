@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Course2.Entities
+namespace Course.Entities
 {
     class HourContract
     {
